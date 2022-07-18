@@ -148,7 +148,4 @@ z=x+y
 # 13- Install Extensions
 
 ~~image~~
-
-![QR](qr.png)
-
 [//]: <> (This is also a comment.)
